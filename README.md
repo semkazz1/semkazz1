@@ -7,7 +7,7 @@
 <p align="left">
   <a href="https://x.com/Gyome1_">
     <img src="https://img.shields.io/badge/X-%40Gyomei__1-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111"
-         alt="X @Gyomei_1">
+         alt="X @Gyome1_">
   </a>
   <a href="https://github.com/semkazz1?tab=followers">
     <img src="https://img.shields.io/github/followers/semkazz1?label=FOLLOWERS&style=for-the-badge&color=C7FF00&labelColor=111111"
