@@ -67,7 +67,7 @@ then turns that pattern into an explainable trading signal.
 - **Auto-sniping** — let the user define execution and risk parameters
 
 <p>
-  <a href="https://x.com/Gyome1_"><img src="https://img.shields.io/badge/PROJECT%20UPDATES-@FLYSWARMRH-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111" alt="FlySwarm on X"></a>
+  <a href="https://x.com/Gyome1_"><img src="https://img.shields.io/badge/PROJECT%20UPDATES-@GYOME1_-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111" alt="FlySwarm on X"></a>
 </p>
 
 > A wallet can hide behind a fresh address. A recurring group is harder to hide.
