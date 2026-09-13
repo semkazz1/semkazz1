@@ -1,11 +1,20 @@
 <p align="center">
-  <img src="./assets/profile-banner-flybrain.png" alt="Gyomei — FlySwarm" width="100%">
+  <img src="./exec-08d9101d-dd8d-492b-8dbf-5aa1c33d01db.png"
+       alt="Gyomei — FlySwarm"
+       width="100%">
 </p>
 
 <p align="left">
-  <a href="https://x.com/Gyomei_1"><img src="./exec-08d9101d-dd8d-492b-8dbf-5aa1c33d01db.png" alt="Gyomei — FlySwarm" width="100%"></a>
-  <a href="https://github.com/semkazz1?tab=followers"><img src="https://img.shields.io/github/followers/semkazz1?label=FOLLOWERS&style=for-the-badge&color=C7FF00&labelColor=111111" alt="GitHub followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=semkazz1&label=PROFILE%20VIEWS&color=C7FF00&style=for-the-badge" alt="Profile views">
+  <a href="https://x.com/Gyomei_1">
+    <img src="https://img.shields.io/badge/X-%40Gyomei__1-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111"
+         alt="X @Gyomei_1">
+  </a>
+  <a href="https://github.com/semkazz1?tab=followers">
+    <img src="https://img.shields.io/github/followers/semkazz1?label=FOLLOWERS&style=for-the-badge&color=C7FF00&labelColor=111111"
+         alt="GitHub followers">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=semkazz1&label=PROFILE%20VIEWS&color=C7FF00&style=for-the-badge"
+       alt="Profile views">
 </p>
 
 ## About me
