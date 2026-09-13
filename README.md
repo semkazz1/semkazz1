@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <a href="https://x.com/Gyomei_1">
+  <a href="https://x.com/Gyome1_">
     <img src="https://img.shields.io/badge/X-%40Gyomei__1-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111"
          alt="X @Gyomei_1">
   </a>
