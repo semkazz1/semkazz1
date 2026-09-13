@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  <a href="https://x.com/Gyomei_1"><img src="https://img.shields.io/badge/X-@GYOMEI__1-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111" alt="X @Gyomei_1"></a>
+  <a href="https://x.com/Gyome1_"><img src="https://img.shields.io/badge/X-@GYOME1_-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111" alt="X @Gyome1_"></a>
   <a href="https://github.com/semkazz1?tab=followers"><img src="https://img.shields.io/github/followers/semkazz1?label=FOLLOWERS&style=for-the-badge&color=C7FF00&labelColor=111111" alt="GitHub followers"></a>
   <img src="https://komarev.com/ghpvc/?username=semkazz1&label=PROFILE%20VIEWS&color=C7FF00&style=for-the-badge" alt="Profile views">
 </p>
@@ -75,7 +75,7 @@ Each signal keeps the evidence attached: source wallets, transfers, cluster
 history, previous group outcomes and the exact rule that caused the alert.
 
 <p>
-  <a href="https://x.com/FlySwarmRH"><img src="https://img.shields.io/badge/PROJECT%20UPDATES-@FLYSWARMRH-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111" alt="FlySwarm on X"></a>
+  <a href="https://x.com/Gyome1_"><img src="https://img.shields.io/badge/PROJECT%20UPDATES-@GYOME1_?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111" alt="FlySwarm on X"></a>
 </p>
 
 > A wallet can hide behind a fresh address. A recurring group is harder to hide.
