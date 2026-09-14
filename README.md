@@ -4,8 +4,8 @@
 
 <p align="left">
   <a href="https://x.com/Gyome1_"><img src="https://img.shields.io/badge/X-@GYOME1_-C7FF00?style=for-the-badge&logo=x&logoColor=000000&labelColor=111111" alt="X @Gyome1_"></a>
- <img src="https://img.shields.io/github/followers/semkazz1?label=FOLLOWERS&style=for-the-badge&color=C7FF00&labelColor=11111" alt="GitHub followers"> <a href="https://github.com/semkazz1?tab=followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=semkazz1&label=PROFILE%20VIEWS&color=C7FF00&style=for-the-badge&labelColor=111111" alt="Profile views">
+  <a href="https://github.com/semkazz1?tab=followers"><img src="https://img.shields.io/github/followers/semkazz1?label=FOLLOWERS&style=for-the-badge&color=C7FF00&labelColor=111111" alt="GitHub followers"></a>
+  <a href="https://github.com/semkazz1"><img src="https://komarev.com/ghpvc/?username=semkazz1&label=PROFILE%20VIEWS&color=C7FF00&style=for-the-badge&labelColor=111111" alt="Profile views"></a>
 </p>
 
 ## About me
