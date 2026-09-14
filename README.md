@@ -5,7 +5,7 @@
 <p align="left">
   <a href="https://x.com/Gyome1_"><img src="https://img.shields.io/badge/-@GYOME1_-C7FF00?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=555555" alt="X @Gyome1_"></a>
   <a href="https://github.com/semkazz1?tab=followers"><img src="https://img.shields.io/github/followers/semkazz1?label=FOLLOWERS&style=for-the-badge&color=C7FF00&labelColor=555555" alt="GitHub followers"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.dwyl.com%2Fsemkazz1%2Fsemkazz1.json&query=%24.message&label=PROFILE%20VIEWS&style=for-the-badge&color=C7FF00&labelColor=555555" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=semkazz1&label=PROFILE%20VIEWS&color=C7FF00&style=for-the-badge" alt="Profile views">
 </p>
 
 ## About me
